@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DatePicker_with Variable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4efcb057-b05e-4ec9-adf2-fcfcb42daa3f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e79c4372-2ce2-4dce-a685-937d654a7d8d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>705bfe78-b6ed-4820-a396-9249671ba409</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c9ff96ff-e917-4ba9-823b-0f5e8148a51b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9c861ff4-efe9-457e-b887-87899f4bb3a9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>17e1a2d9-8f00-410f-802b-838a467de684</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'11'</defaultValue>
+      <description></description>
+      <id>e79c4372-2ce2-4dce-a685-937d654a7d8d</id>
+      <masked>false</masked>
+      <name>House</name>
+   </variable>
+   <variable>
+      <defaultValue>'JALAN SAWI DUA 24/18B'</defaultValue>
+      <description></description>
+      <id>705bfe78-b6ed-4820-a396-9249671ba409</id>
+      <masked>false</masked>
+      <name>Street</name>
+   </variable>
+   <variable>
+      <defaultValue>'SEKSYEN 24'</defaultValue>
+      <description></description>
+      <id>c9ff96ff-e917-4ba9-823b-0f5e8148a51b</id>
+      <masked>false</masked>
+      <name>Section</name>
+   </variable>
+   <variable>
+      <defaultValue>'40300'</defaultValue>
+      <description></description>
+      <id>9c861ff4-efe9-457e-b887-87899f4bb3a9</id>
+      <masked>false</masked>
+      <name>Postcode</name>
+   </variable>
+   <variable>
+      <defaultValue>'SHAH ALAM'</defaultValue>
+      <description></description>
+      <id>17e1a2d9-8f00-410f-802b-838a467de684</id>
+      <masked>false</masked>
+      <name>City</name>
+   </variable>
+</TestCaseEntity>
